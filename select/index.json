@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "NANIMONOにも成れないよ",
+  "base_artist": "100回嘔吐",
+  "createdAt": "2026-02-26T15:54:03.677941Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NANIMONOにも成れないよ",
+      "artist": "100回嘔吐",
+      "has_synced": false,
+      "path": "select/pl_01_NANIMONOにも成れないよ_100回嘔吐.txt"
+    }
+  ]
+}
